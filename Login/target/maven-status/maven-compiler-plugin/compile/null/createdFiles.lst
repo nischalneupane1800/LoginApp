@@ -1,0 +1,5 @@
+org/openjfx/LoginController.class
+module-info.class
+org/openjfx/SqliteConnection.class
+org/openjfx/App.class
+org/openjfx/UserInformationController.class
